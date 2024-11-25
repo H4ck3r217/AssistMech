@@ -1,2 +1,7 @@
-# AssistMech
-Semi-Automated Indicator 
+## AssistMech
+
+#Semi-Automated Indicator
+
+Development stage has commenced!!!
+
+
