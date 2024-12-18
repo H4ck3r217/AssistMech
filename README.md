@@ -12,9 +12,12 @@ Welcome to **AssistMech**, your go-to solution for semi-automated indicators! Th
 
 AssistMech is a indicator designed to streamline your workflow by providing ai assist in your trading journey. Whether you're a beginner, mediate, or pro, AssistMech has something to offer you!
 
-### ⚙️ Features
+### ⚙️ NOTES FOR USAGE
 
-- **Automated Insights**: Get real-time data analysis.
-- **Customizable**: Tailor the indicator to fit your needs.
-- **User-Friendly Interface**: Easy to navigate and use.
-- **Backtesting Capabilities**: Allows users to test their custom settings against historical data to evaluate performance before live trading.
+Timeframe set to 15M by default ie:- best performance DON'T CHANGE!!!"
+Always rename lower trendline to l and upper trendlindline to u"
+Always rename support zone to sup and resistant zone to res"
+Toggle true on Signals for AssistMech show signals"
+
+### Initial Commit Free Trial 
+#VALID UNTIL 10 JAN 2025
