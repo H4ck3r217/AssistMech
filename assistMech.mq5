@@ -410,7 +410,6 @@ int OnCalculate(const int rates_total,const int prev_calculated,const datetime &
   for(int i = 0; i < rates_total; i++){
 
     if(Volume[i] < 0){
-
       Print("Invalid volume data detected at bar ", i);
       Volume[i] = 0;  // Reset invalid volume to 0
     }
